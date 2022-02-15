@@ -4,6 +4,7 @@ body{
   position: relative;
   font-family: 'Merriweather', serif;
 }
+
 h1{
   margin-top: 0;
   font-size: 90px;
@@ -36,15 +37,18 @@ hr{
   width: 4%;
   margin:100px auto;
 }
+
 a{
   color: #11999E;
   padding: 20px 20px;
   text-decoration: none;
 }
+
 a:hover
 {
   color: black;
 }
+
 .top-container{
   background-color: #CAF0F8;
   padding-top: 100px;
@@ -57,9 +61,8 @@ margin:100px 0;
 .bottom-container{
   background-color: #CAF0F8;
   padding: 50px 0px 20px;
-
-
 }
+
 .skill-row{
   width: 50%;
   margin: auto;
@@ -92,11 +95,13 @@ width: 25%;
 float: left;
 margin-right: 30px;
 }
+
 .trade-img{
   width: 25%;
   float: right;
   margin-left: 30px;
 }
+
 .btn {
   background: #11cdd4;
   background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
