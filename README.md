@@ -1,1 +1,1 @@
-This portfolio just created while doing practice and its just an easy portfolio .
+Just a easy sample portfolio made during learning .
